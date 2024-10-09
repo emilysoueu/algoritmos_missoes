@@ -336,6 +336,65 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dNXOlsODUXVfY1io0Mdr-1" target="dNXOlsODUXVfY1io0Mdr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-1" value="Ativar câmera e sensores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="dNXOlsODUXVfY1io0Mdr-2" parent="1" target="dNXOlsODUXVfY1io0Mdr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-4" value="Iniciar Satélite" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dNXOlsODUXVfY1io0Mdr-5" target="dNXOlsODUXVfY1io0Mdr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-5" value="Monitorar plantações" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dNXOlsODUXVfY1io0Mdr-7" target="dNXOlsODUXVfY1io0Mdr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-7" value="Há alterações no solo e plantas?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dNXOlsODUXVfY1io0Mdr-9" target="dNXOlsODUXVfY1io0Mdr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-9" value="Enviar alerta" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-11" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dNXOlsODUXVfY1io0Mdr-12" target="dNXOlsODUXVfY1io0Mdr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-12" value="Calcular a necessidade de fertilizantes com base nos dados coletados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-14" value="Enviar relatório para os agricultores com as recomendações" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;" vertex="1" parent="1">
+          <mxGeometry x="130" y="295" width="530" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-17" value="Laço de Repetição" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="598" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-18" value="Repetir o processo de monitoramento a cada órbita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="528" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dNXOlsODUXVfY1io0Mdr-19" value="Função" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
