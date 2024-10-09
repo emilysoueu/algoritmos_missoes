@@ -213,7 +213,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="90QgUN1Pv-77uzuZfP2a" name="Missão 02">
-    <mxGraphModel dx="794" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,31 +226,107 @@
         <mxCell id="8MEGLR8kRfwuiS789JdU-2" value="Sensores: temperatura,&amp;nbsp;&lt;div&gt;pH e Oxigênio&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="-1060" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8MEGLR8kRfwuiS789JdU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-3" target="8MEGLR8kRfwuiS789JdU-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8MEGLR8kRfwuiS789JdU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-3" target="8MEGLR8kRfwuiS789JdU-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8MEGLR8kRfwuiS789JdU-3" value="Monitorar áreas costeiras e fazendas de piscicultura" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8MEGLR8kRfwuiS789JdU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="-760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8MEGLR8kRfwuiS789JdU-5" value="Alteração na temperatura?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-800" width="80" height="80" as="geometry" />
+        <mxCell id="8MEGLR8kRfwuiS789JdU-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-9" target="8MEGLR8kRfwuiS789JdU-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8MEGLR8kRfwuiS789JdU-9" value="Enviar alerta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="-780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MEGLR8kRfwuiS789JdU-10" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-782" width="40" height="30" as="geometry" />
+          <mxGeometry x="450" y="-780" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8MEGLR8kRfwuiS789JdU-11" value="Nível de oxigêno" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-940" width="80" height="80" as="geometry" />
+        <mxCell id="8MEGLR8kRfwuiS789JdU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-11" target="8MEGLR8kRfwuiS789JdU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-11" value="Alteração nos sensores?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-29" value="Sensores: temperatura,&amp;nbsp;&lt;div&gt;pH e Oxigênio&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-770" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-32" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-692" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="-620" as="sourcePoint" />
+            <mxPoint x="170" y="-900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="-620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-900" as="sourcePoint" />
+            <mxPoint x="310" y="-900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="-900" />
+              <mxPoint x="280" y="-900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-35" value="Laço de Repetição" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-36" target="8MEGLR8kRfwuiS789JdU-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-36" value="Armazena os dados coletados e calcula relatório geral&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-38" target="8MEGLR8kRfwuiS789JdU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-38" value="Verifica conexão com a estação terrestre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-40" target="8MEGLR8kRfwuiS789JdU-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-40" target="8MEGLR8kRfwuiS789JdU-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-40" value="Há conexão?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-42" value="Envia os dados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-44" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-400" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-45" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-47" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="-492" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8MEGLR8kRfwuiS789JdU-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="-530" as="sourcePoint" />
+            <mxPoint x="630" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.006;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8MEGLR8kRfwuiS789JdU-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="-600" as="sourcePoint" />
+            <mxPoint x="590" y="-580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MEGLR8kRfwuiS789JdU-50" value="Laço de Repetição" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-550" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
